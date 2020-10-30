@@ -29,7 +29,7 @@ Below is a list of the on-chain entities that currently control clr.fund's on-ch
 
 ### clr.fund xDai Safe
 
-**Address:** [`0x4E2f7c052376727ff6F6DE2715850419ecacC302`](https://gnosis-safe.io/app/#/safes/0x4E2f7c052376727ff6F6DE2715850419ecacC302/balances)
+**Address:** [`0x4E2f7c052376727ff6F6DE2715850419ecacC302`](https://xdai.gnosis-safe.io/app/#/safes/0x4E2f7c052376727ff6F6DE2715850419ecacC302/balances)
 
 **Network:** `xDai`
 
