@@ -33,7 +33,7 @@ Below is a list of the on-chain entities that currently control clr.fund's on-ch
 
 **Network:** `xDai`
 
-**Signers:** [4/7](https://gnosis-safe.io/app/#/safes/0x4E2f7c052376727ff6F6DE2715850419ecacC302/settings)
+**Signers:** [4/7](https://xdai.gnosis-safe.io/app/#/safes/0x4E2f7c052376727ff6F6DE2715850419ecacC302/settings)
 
 **Purpose:** Serve as the owner of the canonical instance of the protocol on xDai until a suitable DAO framework is selected.
 
