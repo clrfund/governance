@@ -1,0 +1,73 @@
+{
+  "title": "Add a recipient to clr.fund",
+  "description": "Someone requested to add a recipient to clr.fund",
+  "rulingOptions": {
+    "titles": [
+      "Yes, Add It",
+      "No, Don't Add It"
+    ],
+    "descriptions": [
+      "Select this if you think the recipient complies with the required criteria and should be added.",
+      "Select this if you think the recipient does not comply with the required criteria and should not be added."
+    ]
+  },
+  "category": "Curated Lists",
+  "question": "Does the recipient comply with the required criteria?",
+  "fileURI": "/ipfs/QmRqS3rrQ7tc83Q4RTbxaTwrVCnQeX6MevBYzBMSUbPGh6/clr.fund-Recipient-Acceptance-Criteria-V2.pdf",
+  "evidenceDisplayInterfaceURI": "/ipfs/QmVN37pbHrhqq83rkZkKeoJaL3bEeZLVu2h7whFFLRVKW1/index.html",
+  "evidenceDisplayInterfaceHash": "Bcd1WrugJjjiHpzEL1eho1Bm11hekia41LdFTHBk3G7oKQoWxbFNxFyoxxvZVYXu165KigvVAKY1Hc4ME687bNC6dL",
+  "metadata": {
+    "tcrTitle": "clr.fund",
+    "tcrDescription": "Valid recipients for clr.fund",
+    "columns": [
+      {
+        "label": "Name",
+        "description": "Commonly recognizable name of the recipient.",
+        "type": "text",
+        "isIdentifier": true
+      },
+      {
+        "label": "ETH Address",
+        "description": "The ETH address where the recipient will receive funds. Should be verifiably controlled by the recipient.",
+        "type": "address",
+        "isIdentifier": true
+      },
+      {
+        "label": "Logo / Banner image",
+        "description": "Recipient logo / banner image - maximum size of 400KB",
+        "type": "image",
+        "isIdentifier": false
+      },
+      {
+        "label": "Description",
+        "description": "A succinct description of the recipient and how it is a public good that benefits the Ethereum Ecosystem. URIs to additional content are allowed. Should include verifiable proof of the receiving address.",
+        "type": "text",
+        "isIdentifier": false
+      },
+      {
+        "label": "URL",
+        "description": "Recipient URL",
+        "type": "link",
+        "isIdentifier": true
+      },
+      {
+        "label": "Twitter Handle (Optional)",
+        "description": "The recipient's Twitter handle.",
+        "type": "text",
+        "isIdentifier": false
+      },
+      {
+        "label": "ENS Name (Optional)",
+        "description": "The recipient's ENS name. Should be verifiably controlled by the recipient. Records resolved from this ENS name may be used for extra details on profiles or for receiving addresses on different networks.",
+        "type": "text",
+        "isIdentifier": false
+      }
+    ],
+    "itemName": "recipient",
+    "itemNamePlural": "recipients",
+    "logoURI": "/ipfs/QmP8y7LyRyzSH9rroZ5aMYvRWmP8uBvhgqP8MSrdynqjyK/clrfund-white.png",
+    "requireRemovalEvidence": true,
+    "isTCRofTCRs": false,
+    "relTcrDisabled": true
+  }
+}
