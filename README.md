@@ -23,7 +23,7 @@ Below is a list of the on-chain entities that currently control clr.fund's on-ch
 
 **Network:** `mainnet`
 
-**Signers:** [4/7](https://gnosis-safe.io/app/#/safes/0xFcC41c4614bD464bA28ad96f93aAdaA7bA6c8680/settings)
+**Signers:** [3/7](https://gnosis-safe.io/app/#/safes/0xFcC41c4614bD464bA28ad96f93aAdaA7bA6c8680/settings)
 
 **Purpose:** Hold MolochDAO shares and funds received from `rageQuit()` until they are ready to be distributed. Hold assets that have been contributed to the matching pool prior to the protocol going live. Serve as the owner of the canonical instance of the protocol until a suitable DAO framework is selected.
 
