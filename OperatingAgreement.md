@@ -8,8 +8,7 @@
 
 **THIS OPERATING AGREEMENT** (this "***Agreement***") is made and entered into among the parties granted governance interests on Ethereum ("***Governance Mechanism***") by the address dao.clrfund.eth (collectively, the "***Members***" or "***Clr.Fund DAO***"). The Members seek to confirm their primary purpose to build the clr.fund protocol with an associated legal entity to conduct such business, formed in Wyoming as “Clr.Fund LLC”. This Agreement shall be effective among the Members upon the ratified majority signature by the Clr.Fund DAO Governance Mechanism.
 
-**SECTION 1**
-
+## **SECTION 1**
 **THE COMPANY**
 
 **1.1 Formation**. Effective 2/28/2021, the Members form a limited liability company ("***LLC***") under the name Clr.Fund LLC (the "***Company***") on the terms and conditions in this Agreement and pursuant to the provisions under the Wyoming statutes (Title 17, Chapter 25 - 109) (the "***Act***"). The Members agree to file with the appropriate agency(ies) within the State of Wyoming charged with processing and maintaining such records all documentation required for the formation and maintenance of the Company. The rights and obligations of the Members are as provided in the Act except as otherwise expressly provided in this Agreement.
@@ -24,8 +23,7 @@
 
 **1.6 Admission of Additional Members**. Except as otherwise expressly provided herein, no additional Members may be admitted to the Company without the consent of the Members as signified by the grant of governance interests in the Clr.Fund DAO Governance Mechanism.
 
-**SECTION 2**
-
+## **SECTION 2**
 **CAPITAL CONTRIBUTIONS**
 
 **2.1 Initial Contributions**. The initial and other contributions of the Members and those subsequently admitted as Members shall be set forth in the Clr.Fund DAO Governance Mechanism. Contributions shall be made in ether, USDC, DAI, digital assets, cryptocurrencies and/or equivalent work as determined by the Members.
@@ -34,24 +32,21 @@
 
 **2.3 No Interest on Capital Contributions**. Members are not entitled to interest or other compensation for or on account of their capital contributions to the Company except to the extent, if any, expressly provided in this Agreement.
 
-**SECTION 3**
-
+## **SECTION 3**
 **ALLOCATION OF PROFITS AND LOSSES; DISTRIBUTIONS**
 
 **3.1 Distributions**. The Members shall determine and distribute available funds annually or at more frequent intervals as they see fit and determine as provided in this Agreement. Available funds, as referred to herein, shall mean the net cash, digital asset and/or cryptocurrency equivalents of the Company available after appropriate provision for expenses and liabilities, as determined by the Members. Distributions in liquidation of the Company or in liquidation of a Member's interest shall be made in accordance with the positive capital account balances pursuant to *U.S. Department of the Treasury Regulation 1.704.1(b)(2)(ii)(b)(2)*. To the extent a Member shall have a negative capital account balance, there shall be a qualified income offset, as set forth in *U.S. Department of the Treasury Regulation 1.704.1(b)(2)(ii)(d)*.
 
 **3.2 No Right to Demand Return of Capital**. No Member has any right to any return of capital or other distribution except as expressly provided in this Agreement. No Member has any drawing account in the Company.
 
-**SECTION 4**
-
+## **SECTION 4**
 **LIMITATION OF LIABILITIES**
 
 **4.1 Liability of Members.** All debts, obligations and liabilities of the Company, whether arising in contract, tort or otherwise, shall be solely the debts, obligations and liabilities of the Company, and no Member shall be obligated personally for any such debt, obligation or liability of the Company solely by reason of being a Member.
 
 **4.2 Indemnification of Members**. The Company shall indemnify any person who was or is a party defendant or is threatened to be made a party defendant, pending or completed action, suit or proceeding, whether civil, criminal, administrative, or investigative (other than an action by or in the right of the Company) by reason of the fact that they are or were a Member of the Company, manager, employee, or agent of the Company, or are or were serving at the request of the Company, against expenses (including attorney's fees), judgments, fines, and amounts paid in settlement actually and reasonably incurred in connection with such action, suit or proceeding if the Members determine that they acted in good faith and in a manner they reasonably believed to be in or not opposed to the best interest of the Company, and with respect to any criminal action proceeding, have no reasonable cause to believe their conduct was unlawful. The termination of any action, suit, or proceeding by judgment, order, settlement, conviction, or upon a plea of "no lo Contendere" or its equivalent, shall not in itself create a presumption that the person did or did not act in good faith and in a manner which they reasonably believed to be in the best interest of the Company, and, with respect to any criminal action or proceeding, had reasonable cause to believe that their conduct was lawful.
 
-**SECTION 5**
-
+## **SECTION 5**
 **POWERS AND DUTIES OF MANAGING MEMBERS**
 
 **5.1 Management of Company**. 
@@ -66,8 +61,7 @@
 
 **5.2 Decisions by Members**. Whenever in this Agreement reference is made to the decision, consent, approval, judgment, or action of the Members, unless otherwise expressly provided in this Agreement, such decision, consent, approval, judgment, or action shall mean the consent of Members determined by recorded votes through the Clr.Fund DAO Governance Mechanism.
 
-**SECTION 6**
-
+## **SECTION 6**
 **PAYMENT OF EXPENSES, SALARIES, AND COUNSEL**
 
 **6.1 Organization Expenses**. All expenses incurred in connection with the organization of the Company will be paid by the Company as approved by the Members.
@@ -76,8 +70,7 @@
 
 **6.3 Legal and Accounting Services**. The Company may obtain legal and accounting services to the extent reasonably necessary for the conduct of the Company's business and as approved by the Members. 
 
-**SECTION 7**
-
+## **SECTION 7**
 **BOOKS OF ACCOUNT, RECORDS, ACCOUNTING REPORTS, FISCAL YEAR, TAX MATTERS**
 
 **7.1 Method of Accounting**. The Company will use the method of accounting previously determined by the Members for financial reporting and tax purposes. 
@@ -88,8 +81,7 @@
 
 **7.4 Capital Accounts**. Capital Accounts among the Members shall be maintained on Ethereum and evidenced by the Clr.Fund DAO Governance Mechanism.
 
-**SECTION 8**
-
+## **SECTION 8**
 **REPRESENTATIONS & WARRANTIES**
 
 By entering into this Agreement, Members represent and warrant to the Company that they acknowledge and agree to the following:
@@ -100,16 +92,14 @@ By entering into this Agreement, Members represent and warrant to the Company th
 
 (iii) This Agreement constitutes legal, valid, and binding obligations, enforceable in accordance with their terms among the Members, except as enforceability may be limited by applicable bankruptcy, insolvency, reorganization, moratorium, or similar laws affecting creditor’s rights generally and by general equitable principles. 
 
-**SECTION 9**
-
+## **SECTION 9**
 **TRANSFER OF MEMBERSHIP INTERESTS**
 
 **9.1 Sale or Encumbrance Prohibited**. Except as otherwise permitted in this Agreement, no Member may voluntarily or involuntarily transfer, sell, convey, encumber, pledge, assign, or otherwise dispose of (collectively, "***Transfer***") an interest in the Company, including, but not limited to, assigning control over Clr.Fund DAO governance interests, without the prior authorization of the Members under the Clr.Fund DAO Governance Mechanism or formal assignment mechanisms otherwise authorized for the Company.
 
 **9.2 Withdrawal**. For the avoidance of doubt, a Member may at all times redeem their interests in the Company through mechanisms approved through the Clr.Fund DAO Governance Mechanism, and may be similarly subject to removal from the Company for violation of this Agreement or associated Member obligations and thereby face liquidation of their interests in the Company.
 
-**SECTION 10**
-
+## **SECTION 10**
 **DISSOLUTION AND WINDING UP OF THE COMPANY**
 
 **10.1 Dissolution**. The Company will be dissolved on the happening of any of the following events:
@@ -130,8 +120,7 @@ By entering into this Agreement, Members represent and warrant to the Company th
 
 **10.2.3** To Members in the amount of their respective adjusted Capital Account balances on the date of distribution.
 
-**SECTION 11**
-
+## **SECTION 11**
 **GENERAL PROVISIONS**
 
 **11.1 Amendments**. Amendments to this Agreement may be proposed by any Member. A proposed amendment will be adopted and become effective as an amendment upon the consent of the Members as signified through the Clr.Fund DAO Governance Mechanism.
