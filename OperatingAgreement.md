@@ -10,7 +10,7 @@
 
 **SECTION 1**
 
-**THE COMPANY*
+**THE COMPANY**
 
 **1.1 Formation**. Effective 2/28/2021, the Members form a limited liability company ("***LLC***") under the name Clr.Fund LLC (the "***Company***") on the terms and conditions in this Agreement and pursuant to the provisions under the Wyoming statutes (Title 17, Chapter 25 - 109) (the "***Act***"). The Members agree to file with the appropriate agency(ies) within the State of Wyoming charged with processing and maintaining such records all documentation required for the formation and maintenance of the Company. The rights and obligations of the Members are as provided in the Act except as otherwise expressly provided in this Agreement.
 
