@@ -25,6 +25,11 @@ Below is a list of the on-chain entities that currently control clr.fund's on-ch
 > **Networks:**
 > * [`mainnet` (3/7)](https://gnosis-safe.io/app/#/safes/0xadca3cF41e2e2517F1862b3CA18E8beF561EEded/balances)
 > * [`xDai` (2/7)](https://xdai.gnosis-safe.io/app/#/safes/0xadca3cF41e2e2517F1862b3CA18E8beF561EEded/balances)
+
+> **Address:** `0xC02f0da387B95cad328F6f323c2443F044B6bFcF`
+>
+> **Networks:**
+> * [`polygon` (2/5)](https://polygon.gnosis-safe.io/app/#/safes/0xC02f0da387B95cad328F6f323c2443F044B6bFcF/settings/owners)
 >
 > **Purpose:** To hold funds allocated to the clr.fund contributors, to be used to reward past contributions and incentivise future contributions.
 
