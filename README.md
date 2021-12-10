@@ -53,13 +53,13 @@ Below is a list of the on-chain entities that currently control clr.fund's on-ch
 
 ### clr.fund colony
 
-> **Address:** `clr.colony.joincolony.eth`
+> **Address:** `0x312df749F7756dbb3f3F0e64e1c3014A4Ca132A6`
 >
-> **Network:** `mainnet`
+> **Network:** `xDai`
 >
-> **Root permission holders:** [clr.fund matching pool Gnosis Safe](#clr.fund-gnosis-safe)
+> **Root permission holders:** clr.fund xDai contributor safe.
 > 
-> **Purpose:** To track and reward contributions to the clr.fund ecosystem. Eventually, as Colony's functionality permits, this may take over the role of some of the above multi-sigs. Gas prices permitting, of course.
+> **Purpose:** To track and reward contributions to the clr.fund ecosystem. Eventually, as Colony's functionality permits, this may take over the role of some of the above multi-sigs.
 
 ## Other Tools/Assets
 
